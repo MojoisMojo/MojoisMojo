@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Mojo Mao
 
-<!--
-**MojoisMojo/MojoisMojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Education**: 
+  - **Undergraduate (2022-2026)**: School of Intelligent Software and Engineering, **Nanjing University**.
+  - **Master's (Incoming 2026)**: School of Computer Science, **Shanghai Jiao Tong University**, specializing in **Software Engineering**.
+- 🚀 **Research & Interests**: 
+  - Interested in **Game Engines**.
+  - Currently exploring the internals of **Godot** and low-level graphics with **Vulkan**.
+- 📫 **Contact**: 
+  - 🏫 [221900175@smail.nju.edu.cn](mailto:221900175@smail.nju.edu.cn)
 
-Here are some ideas to get you started:
+### 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MojoisMojo&show_icons=true&theme=transparent&title_color=007ACC&icon_color=007ACC" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=MojoisMojo&layout=compact&langs_count=8&theme=transparent&title_color=007ACC" />
+</p>
