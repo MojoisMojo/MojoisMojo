@@ -12,6 +12,6 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MojoisMojo&show_icons=true&theme=transparent&title_color=007ACC&icon_color=007ACC" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=MojoisMojo&layout=compact&langs_count=8&theme=transparent&title_color=007ACC" />
+  <img height="180" src="https://github-readme-stats-MojoisMojo.vercel.app/api?username=MojoisMojo&show_icons=true&theme=transparent&title_color=007ACC&icon_color=007ACC" />
+  <img height="180" src="https://github-readme-stats-MojoisMojo.vercel.app/api/top-langs?username=MojoisMojo&layout=compact&langs_count=8&theme=transparent&title_color=007ACC" />
 </p>
