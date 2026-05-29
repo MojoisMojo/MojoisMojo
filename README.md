@@ -4,10 +4,10 @@
   - **Undergraduate (2022-2026)**: School of Intelligent Software and Engineering, **Nanjing University**.
   - **Master's (Incoming 2026)**: School of Computer Science, **Shanghai Jiao Tong University**, specializing in **Software Engineering**.
 - 🚀 **Research & Interests**: 
-  - Interested in **Game Engines**.
-  - Currently exploring the internals of **Godot** and low-level graphics with **Vulkan**.
+  - Game Engines: Interested in engine architecture, real-time rendering, and low-level graphics programming. Currently exploring Godot internals and Vulkan API.
+  - Generative UI (GenUI): Investigating adaptive, trust-aware, and engineerable UI generation — including structured interface representations (A2UI), human-AI trust calibration, and "design-time/runtime" decoupled architectures for production-ready GenUI systems.
 - 📫 **Contact**: 
-  - 🏫 [221900175@smail.nju.edu.cn](mailto:221900175@smail.nju.edu.cn)
+  - 🏫 [mojo_jiutaomao@163.com](mailto:mojo_jiutaomao@163.com)
 
 ### 📊 GitHub Activity
 
