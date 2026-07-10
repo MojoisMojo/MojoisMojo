@@ -7,7 +7,7 @@
   - Game Engines: Interested in engine architecture, real-time rendering, and low-level graphics programming. Currently exploring Godot internals and Vulkan API.
   - Generative UI (GenUI): Investigating adaptive, trust-aware, and engineerable UI generation — including structured interface representations (A2UI), human-AI trust calibration, and "design-time/runtime" decoupled architectures for production-ready GenUI systems.
 - 📫 **Contact**: 
-  - 🏫 [mojo_jiutaomao@163.com](mailto:mojo_jiutaomao@163.com)
+  - 🏫 [mojomao@sjtu.edu.cn](mailto:mojomao@sjtu.edu.cn)
 
 ### 📊 GitHub Activity
 
